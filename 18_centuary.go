@@ -1,4 +1,4 @@
-package kata
+package main
 
 func century(year int) (res int) {
 	res = int(year / 100)

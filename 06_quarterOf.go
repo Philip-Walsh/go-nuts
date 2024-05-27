@@ -1,4 +1,4 @@
-package kata
+package main
 
 func QuarterOf(month int) int {
 	if month > 6 {

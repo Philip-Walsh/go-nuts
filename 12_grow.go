@@ -1,4 +1,4 @@
-package kata
+package main
 
 func Grow(arr []int) int {
 	var res int = 1

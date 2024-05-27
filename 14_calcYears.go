@@ -1,4 +1,4 @@
-package kata
+package main
 
 func CalculateYears(years int) (result [3]int) {
 	var cYears = 0

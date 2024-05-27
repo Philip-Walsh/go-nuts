@@ -1,4 +1,4 @@
-// package kata
+// package main
 
 // func Maps(x []int) []int {
 //   var res []int
@@ -8,7 +8,7 @@
 //   return res
 // }
 
-package kata
+package main
 
 func Maps(x []int) []int {
 	result := make([]int, len(x))

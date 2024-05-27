@@ -16,7 +16,7 @@
 //   }
 // 	return strings.Join(strings.Split(arr[index], ""), "***")
 
-package kata
+package main
 
 import (
 	"sort"

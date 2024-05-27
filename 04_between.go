@@ -1,4 +1,4 @@
-package kata
+package main
 
 func Between(a, b int) []int {
 	var result []int

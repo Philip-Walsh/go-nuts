@@ -1,4 +1,4 @@
-package kata
+package main
 
 func GetMiddle(s string) string {
 	var mid = int(len(s) / 2)

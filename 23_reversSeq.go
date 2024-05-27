@@ -1,4 +1,4 @@
-package kata
+package main
 
 func ReverseSeq(n int) (res []int) {
 	for i := n; i > 0; i-- {

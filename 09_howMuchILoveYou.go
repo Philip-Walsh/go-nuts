@@ -1,4 +1,4 @@
-package kata
+package main
 
 func HowMuchILoveYou(i int) string {
 	var opts = []string{

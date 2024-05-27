@@ -1,0 +1,15 @@
+package main
+
+import (
+	"strings"
+)
+
+func Disemvowel(comment string) string {
+	var res = comment
+	var vowels = []string{"a", "e", "i", "o", "u", "A", "E", "I", "O", "U"}
+	for _, val := range vowels {
+		res = strings.ReplaceAll(res, val, "")
+	}
+	return res
+
+}

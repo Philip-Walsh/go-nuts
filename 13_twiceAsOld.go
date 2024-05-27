@@ -1,4 +1,4 @@
-package kata
+package main
 
 func TwiceAsOld(dadYearsOld, sonYearsOld int) int {
 	return abs(dadYearsOld - 2*sonYearsOld)

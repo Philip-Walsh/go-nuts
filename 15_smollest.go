@@ -1,4 +1,4 @@
-package kata
+package main
 
 func SmallestIntegerFinder(numbers []int) (smol int) {
 	smol = numbers[0]
