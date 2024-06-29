@@ -5,7 +5,7 @@ import (
 	"unicode"
 )
 
-func solve(str string) string {
+func solveIt(str string) string {
 	var lowerCount = 0
 	var upperCount = 0
 	for _, s := range str {

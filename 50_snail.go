@@ -1,4 +1,4 @@
-package kata
+package main
 
 func Snail(array [][]int) []int {
     if len(array) == 0 || len(array[0]) == 0 {
